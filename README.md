@@ -1,1 +1,2 @@
 # odin-recipes
+This project is my first project in The Odin Project titled "Project: Recipes". Once I complete this project, I will have been able to demonstrate my skills and capabilities in coding in HTML (using VSCode), using the command line, and using GitHub.
